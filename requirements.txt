@@ -1,0 +1,20 @@
+asgiref @ file:///opt/conda/conda-bld/asgiref_1661287532135/work
+autopep8==1.7.0
+certifi @ file:///croot/certifi_1665076670883/work/certifi
+dj-database-url==1.0.0
+Django @ file:///opt/conda/conda-bld/django_1661296381686/work
+et-xmlfile==1.1.0
+gunicorn==20.1.0
+instagrapi==1.16.29
+numpy==1.23.2
+openpyxl==3.0.10
+pandas==1.4.3
+psycopg2-binary==2.9.5
+pycodestyle==2.9.1
+pycryptodomex==3.15.0
+pydantic==1.9.2
+PySocks==1.7.1
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+toml==0.10.2
+typing_extensions==4.3.0
+whitenoise==6.2.0
